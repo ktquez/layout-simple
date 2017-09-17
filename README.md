@@ -1,6 +1,7 @@
 # layout-simple
 A simple Webpack + Extend layout  
-*Using vue-extend-layout package, inspired in layouts of the Nuxt.js*
+
+> *Using vue-extend-layout package, inspired in layouts of the Nuxt.js*
 
 > This template is Vue 2.0 compatible
 
