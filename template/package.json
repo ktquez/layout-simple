@@ -1,7 +1,7 @@
 {
   "name": "{{name}}",
   "description": "{{description}}",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "{{author}}",
   "private": true,
   "scripts": {
@@ -15,6 +15,7 @@
     "vue-head": "^2.0.11"{{/vueHead}}
   },
   "devDependencies": {
+    "js-beautify": "1.6.14",
     "babel-core": "^6.26.0",
     "babel-loader": "^6.4.1",
     "babel-preset-env": "^1.6.0",
